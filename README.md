@@ -7,6 +7,9 @@ Provide a short description explaining the what, why, and how of your project. U
 Greetings! Welcome to my weather-dashboard project! This project uses API to gather data from a website to give you a updated weather
 forcast! It was built on HTML, CSS, and Javascript. Enjoy!
 
+Link to site:
+https://jalvarez322.github.io/weather-dashboard/
+
 ![image](https://user-images.githubusercontent.com/128071922/231038751-2b8ee06f-829b-4163-9b69-663c0fd97268.png)
 
 
